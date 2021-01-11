@@ -53,7 +53,7 @@ gem『r-fxxk』を使用したBrainfuck系言語です。
 
 --> Go to [<b>KizunaAI-Lang</b>](./KizunaAI-Lang/README.md)
 
-## [Beautiful Name from <i>詩經</i>](Favorite_Alias.md)
+## [Beautiful Chinese Names from <i>詩經</i>](Favorite_Alias.md)
 
 --> `南嘉Nanga` is from [<b>《詩經》 / <i>Book of Songs</i></b>](Favorite_Alias.md)
 > <p align="center">南有嘉鱼，烝然罩罩。君子有酒，嘉宾式燕以乐。
