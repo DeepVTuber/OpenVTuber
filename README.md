@@ -51,7 +51,7 @@ gem『r-fxxk』を使用したBrainfuck系言語です。
 - [いつもニコニコあなたの隣に這いよる混沌ニャルラトホテプ言語ですっ](https://github.com/masarakki/nyaruko_lang)<br>
 <br>
 
-[Go to -> <b>KizunaAI-Lang</b>](./KizunaAI-Lang/README.md)
+--> Go to [<b>KizunaAI-Lang</b>](./KizunaAI-Lang/README.md)
 
 ## [Beautiful Name from <i>詩經</i>](Favorite_Alias.md)
 
