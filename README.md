@@ -24,8 +24,10 @@ One webcam and one decent PC, then you can become a VTuber!
 
 - ### StyleGAN
 [Making Anime Faces With StyleGAN](https://www.gwern.net/Faces)
+
 - ### [OpenVTB](https://github.com/DeepVTuber/DeepVTB)
 An application of real-time face and gaze analyzation via deep nerual networks. 
+
 - ### Head Anime
 [Talking Head Anime from a Single Image](https://pkhungurn.github.io/talking-head-anime/)
 
