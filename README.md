@@ -35,7 +35,7 @@ An application of real-time face and gaze analyzation via deep nerual networks.
 
 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
 
-- ### (Liquid Swarping GAN](https://svip-lab.github.io/project/impersonator)
+- ### [Liquid Swarping GAN](https://svip-lab.github.io/project/impersonator)
 
 Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis (ICCV 2019)
 
