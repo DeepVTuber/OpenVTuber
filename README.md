@@ -22,6 +22,24 @@ This document, [<b>OpenVTuberTools</b>](OpenVTuberTools.md), aims at providing a
 
 One webcam and one decent PC, then you can become a VTuber!
 
+- ### StyleGAN
+[Making Anime Faces With StyleGAN](https://www.gwern.net/Faces)
+
+- ### [OpenVTB](https://github.com/DeepVTuber/DeepVTB)
+
+An application of real-time face and gaze analyzation via deep nerual networks. 
+
+- ### Head Anime
+[Talking Head Anime from a Single Image](https://pkhungurn.github.io/talking-head-anime/)
+
+- ### [PIFuHD](https://shunsukesaito.github.io/PIFuHD/)
+
+PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
+
+- ### (Liquid Swarping GAN](https://svip-lab.github.io/project/impersonator)
+
+Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis (ICCV 2019)
+
 ## Live2D-Widget
 <p align="center">
       <img src="https://github.com/stevenjoezhang/live2d-widget/raw/master/assets/screenshot-2.png" alt="widget1" width="300"/>
