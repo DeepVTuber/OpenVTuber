@@ -1,7 +1,7 @@
 # OpenVTuber-虚拟アイドル共享计划
 
 <a href="https://github.com/DeepVTuber"><img src="https://img.shields.io/badge/Open-VTuber-orange" alt="Open-VTuber"></a>
-[![License](https://badgen.net/github/license/1996scarlet/OpenVtuber)](LICENSE)
+<img src="https://badgen.net/github/license/1996scarlet/OpenVtuber" alt="LICENSE"></a>
 <img src="https://img.shields.io/badge/It’s-magic-purple" alt="Code">
 
 > みんな本当にありがとう！
