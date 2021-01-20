@@ -35,6 +35,10 @@ An application of real-time face and gaze analyzation via deep nerual networks.
 
 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
 
+- ### [Impersonator++](https://github.com/iPERDance/iPERCore)
+
+Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis
+
 - ### [Liquid Swarping GAN](https://svip-lab.github.io/project/impersonator)
 
 Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis (ICCV 2019)
@@ -82,6 +86,10 @@ gem『r-fxxk』を使用したBrainfuck系言語です。
 > <br><br><i>'In the south is the barbel, And, in multitudes, they are taken with wicker nets. The host has spirits, On which his admirable guests feast with him, delighted.'</i>
 > The swarms of fish in the water either sway fast, or have a light and unrestrained posture, and each is extremely happy, giving people rich associations.
 
+## Acknowledgement
+
+Thanks for all above work you contribute. @iPERDance @pkhungurn et.al.
+
 ## 🍮 Community
 - Github <a href="https://github.com/DeepVTuber/DeepVTuber/pulls" target="_blank">pull request 💬</a> or <a href="https://github.com/DeepVTuber/DeepVTuber/issues" target="_blank">issues 💭</a>
 
@@ -90,6 +98,8 @@ gem『r-fxxk』を使用したBrainfuck系言語です。
 
 ## 💖 Support this project
 Donating to help me continue working on this project. <a href="https://ko-fi.com/charmve"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
+
+<a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <a href="https://www.paypal.com/paypalme/Charmve"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate with Paypal"></a> 
 <a href="https://charmve.github.io/sponsor.png"><img src="https://img.shields.io/badge/Donate-WeChat-green" alt="Donate with WeChat"></a>      
