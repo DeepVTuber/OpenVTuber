@@ -25,6 +25,11 @@ One webcam and one decent PC, then you can become a VTuber!
 - ### StyleGAN
 [Making Anime Faces With StyleGAN](https://www.gwern.net/Faces)
 
+[VOGUE: AI虚拟化试穿，避免“买家-卖家”反差](https://www.zhihu.com/zvideo/1338140221268422656)
+
+- ### Makeup Transfer: CA-GAN
+[#ECCV 2020# CA-GAN：一种可控的化妆风格迁移方法 (mute)](https://www.zhihu.com/zvideo/1302262653264801792)
+
 - ### [OpenVTB](https://github.com/DeepVTuber/DeepVTB)
 An application of real-time face and gaze analyzation via deep nerual networks. 
 
